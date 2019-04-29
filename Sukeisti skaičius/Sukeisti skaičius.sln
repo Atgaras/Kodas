@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sukeisti skaičius", "Sukeisti skaičius\Sukeisti skaičius.csproj", "{EB7A3010-58E5-4880-9C1B-1396F2086627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7A3010-58E5-4880-9C1B-1396F2086627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7A3010-58E5-4880-9C1B-1396F2086627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7A3010-58E5-4880-9C1B-1396F2086627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7A3010-58E5-4880-9C1B-1396F2086627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A0A88D0-FC19-424F-9C20-1B8C20A7B45F}
+	EndGlobalSection
+EndGlobal
