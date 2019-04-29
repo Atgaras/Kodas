@@ -13,9 +13,9 @@ namespace _1__1
             int num1;
             int num2;
 
-            Console.WriteLine("Pirmas skaičius:");
+            Console.WriteLine("Pirmas skaičius: ");
             num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Antras skaičius:");
+            Console.WriteLine("Antras skaičius: ");
             num2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Plius vienas: {0}", ++num1);
             Console.WriteLine("Minus vienas: {0}", --num2);
