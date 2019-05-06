@@ -11,11 +11,14 @@ namespace Rutulio_plotas
         static void Main(string[] args)
         {
             double diametras;
+            double pi = 3.14; 
 
             Console.WriteLine("Įveskite rutulio diametrą:");
             diametras = double.Parse(Console.ReadLine());
+            double spindulys = diametras / 2;
 
-            Console.WriteLine("Rutulio paviršiaus plotas = {0}", 4*3.14*(diametras/2));
+            Console.WriteLine("Rutulio paviršiaus plotas = {0}", 4*pi*spindulys*spindulys);
+            Console.WriteLine("Rutulio tūris = {0}",(4.0/3)*pi*spindulys*spindulys*spindulys);
             Console.ReadLine();
         }
     }
